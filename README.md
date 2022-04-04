@@ -33,6 +33,7 @@ This tool will automatically collect data for you to our data center when you vi
 
 ### Unfinished
 
+- Integrate the Public Web Into Your Application
 - Dashboard
-- Export to selected columns
 - Weekly Reports 
+- Easily Export
