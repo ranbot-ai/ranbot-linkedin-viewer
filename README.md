@@ -24,6 +24,7 @@ This tool will automatically collect data for you to our data center when you vi
 - Basic Company/Person Data
 - Person's Work Experiences and Skills
 - Employees Insights
+- Sales People
 
 ### Featured
 
