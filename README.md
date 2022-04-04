@@ -31,6 +31,9 @@ Parse HTML elements, extract basic company/person information from their LinkedI
 
 Allows users to view/get LinkedIn page data with one click.
 
+- Copy to Clipboard
+- Export to JSON file
+
 ### LinkedIn Pages
 
 - Public Company Detail Page
@@ -47,11 +50,6 @@ Allows users to view/get LinkedIn page data with one click.
 - Person's Work Experiences and Skills
 - Employees Insights
 - Sales People
-
-### Featured
-
-- Copy to Clipboard
-- Export to JSON file
 
 ### Todo
 
