@@ -17,7 +17,6 @@ Main Goals: easily view normalized data and quickly copy or export LinkedIn data
 LinkedIn Viewer is a tool that easily views normalized data and quickly copies and export LinkedIn data to use when you view your LinkedIn page.
 
 - [Website](https://ranbot.online/)
-- [Chrome Extension - LinkedIn Viewer](https://chrome.google.com/webstore/detail/linkedin-viewer/danbjaaihgdhofdcdlbhpdljchcogped)
 
 ### How is Data is Structured
 
